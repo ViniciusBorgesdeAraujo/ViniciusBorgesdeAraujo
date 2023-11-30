@@ -2,13 +2,9 @@
 
 # Bem vindo ao meu perfil GitHub 👋
 
+Sou um profissional altamente prático e apaixonado por absorver novos conhecimentos, no mundo da tecnologia. Tenho uma afinidade natural para enfrentar desafios e adquirir novas habilidades, o que me torna confortável em ambientes de aprendizado contínuo. Meu foco atual está na programação, onde estou me preparando para os desafios do mercado de trabalho atual.
 
-
-- 🔭 Atualmente estou trabalhando na M2 Investimentos Imobiliários 
-
-- 🌱 Atualmente sou um desenvolvedor Full Stack junior
-
-- ⚡ Curiosidade: Aprender coisas novas voltada a progamação, sempre atualizando para destacar que mercado necessita
+Com minha experiência em diversas áreas, estou pronto para abraçar novos desafios e contribuir de forma significativa para equipes e projetos inovadores. Estou entusiasmado em conectar com profissionais e empresas que compartilham a mesma paixão pelo aprendizado e pela inovação. Vamos juntos transformar ideias em realidade
 
 ## Ferramentas e Tecnologias
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
@@ -26,7 +22,7 @@
 
 <a href="https://www.instagram.com/vinicius.borginho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:vinnepaul@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/viniciusborgesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/viniciusborgesdev/(https://www.linkedin.com/in/viniciusaraujodev/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>     
 
 <div>
