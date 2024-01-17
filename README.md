@@ -23,7 +23,7 @@ Ao longo dessa jornada, refinei minhas habilidades em:
 
 Se meu perfil despertou seu interesse, sinta-se à vontade para enviar uma mensagem! Adoro trocar experiências e vivências, e estou aberto a novas oportunidades e colaborações. 👨‍💻
 
-Meu link para ter acesso ao meu Currículo : https://drive.google.com/file/d/1oZKo_DLLTuGTadNOmViRtZGIYuS4K36z/view?usp=sharing
+<img src="https://icons8.com.br/icon/23877/curr%C3%ADculo" width="40" heigth="40"/> Confira meu currículo [aqui](https://drive.google.com/file/d/1oZKo_DLLTuGTadNOmViRtZGIYuS4K36z/view?usp=sharing) para obter mais informações sobre minha experiência e qualificações."
 
 ## Ferramentas e Tecnologias
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
