@@ -2,9 +2,26 @@
 
 # Bem vindo ao meu perfil GitHub 👋
 
-Sou um profissional altamente prático e apaixonado por absorver novos conhecimentos, no mundo da tecnologia. Tenho uma afinidade natural para enfrentar desafios e adquirir novas habilidades, o que me torna confortável em ambientes de aprendizado contínuo. Meu foco atual está na programação, onde estou me preparando para os desafios do mercado de trabalho atual.
+Sou um profissional altamente prático e apaixonado por absorver novos conhecimentos, especialmente no universo da tecnologia. Minha natural afinidade para enfrentar desafios e adquirir novas habilidades me torna confortável em ambientes de aprendizado contínuo. Atualmente, meu foco está na programação, onde estou me preparando para os desafios do mercado de trabalho como Full Stack Júnior, aprimorando minhas habilidades em:
 
-Com minha experiência em diversas áreas, estou pronto para abraçar novos desafios e contribuir de forma significativa para equipes e projetos inovadores. Estou entusiasmado em conectar com profissionais e empresas que compartilham a mesma paixão pelo aprendizado e pela inovação. Vamos juntos transformar ideias em realidade
+    - Laravel
+    - PHP
+    - MySQL
+
+Estou cursando em  Análise e Desenvolvimento de Sistemas (ADS) pela Faculdade Estácio de Sá. Oferece uma abordagem abrangente para formar profissionais aptos a projetar, implementar e manter sistemas computacionais inovadores. O curso combina teoria e prática, proporcionando aos estudantes habilidades sólidas em programação, bancos de dados, redes e engenharia de software. Com ênfase na resolução de problemas, os alunos desenvolvem capacidades analíticas para entender as necessidades dos usuários e criar soluções eficientes. A formação inclui linguagens de programação modernas, frameworks e metodologias ágeis. Ao final, os graduados estarão preparados para atuar em diversos setores, liderando projetos de tecnologia e contribuindo para o avanço contínuo da sociedade digital.
+
+Com uma sólida base de experiência desde 2013 na M2 Investimentos Imobiliários, decidi em maio de 2022 seguir minha paixão pela tecnologia. Para atingir meu objetivo de me tornar um Desenvolvedor FullStack Júnior, concluí com sucesso o curso oferecido pela renomada Ímã Tech, totalizando 300 horas de aprendizado intensivo.
+
+Ao longo dessa jornada, refinei minhas habilidades em:
+
+    - HTML
+    - CSS
+    - JavaScript
+    - React.js
+    - Node.js
+    - Pgadmin4
+
+Se meu perfil despertou seu interesse, sinta-se à vontade para enviar uma mensagem! Adoro trocar experiências e vivências, e estou aberto a novas oportunidades e colaborações. 👨‍💻
 
 ## Ferramentas e Tecnologias
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
