@@ -2,28 +2,17 @@
 
 # Bem vindo ao meu perfil GitHub 👋
 
-Sou um profissional altamente prático e apaixonado por absorver novos conhecimentos, especialmente no universo da tecnologia. Minha natural afinidade para enfrentar desafios e adquirir novas habilidades me torna confortável em ambientes de aprendizado contínuo. Atualmente, meu foco está na programação, onde estou me preparando para os desafios do mercado de trabalho como Full Stack Júnior, aprimorando minhas habilidades em:
+Desde criança sempre estive rodeado de tecnologia, tendo contato desde cedo ao ver meus tios formatando e dando manutenção em computadores. Ao observá-los formatando o Windows 95 via comando MS-DOS e inserindo disquetes, fiquei fascinado e aprendi observando e desenvolvendo interesse. Sou bastante autodidata e tive meu primeiro computador, um 486. Desde então, sempre gostei de formatar, corrigir erros e consertar, vendo tudo funcionando para mim, o que me trazia felicidade e, ao mesmo tempo, um senso de realização.
 
-    - Laravel
-    - PHP
-    - MySQL
+Em 2022, tive a oportunidade de participar do programa Ímãtech, onde recebi formação intensiva em desenvolvimento full stack ao longo de 6 meses, com aulas ao vivo. A partir desse momento, fiquei ainda mais fascinado pela tecnologia, criando códigos e resolvendo problemas, o que me trouxe uma sensação de nostalgia.
 
-Estou cursando em  Análise e Desenvolvimento de Sistemas (ADS) pela Faculdade Estácio de Sá. Oferece uma abordagem abrangente para formar profissionais aptos a projetar, implementar e manter sistemas computacionais inovadores. O curso combina teoria e prática, proporcionando aos estudantes habilidades sólidas em programação, bancos de dados, redes e engenharia de software. Com ênfase na resolução de problemas, os alunos desenvolvem capacidades analíticas para entender as necessidades dos usuários e criar soluções eficientes. A formação inclui linguagens de programação modernas, frameworks e metodologias ágeis. Ao final, os graduados estarão preparados para atuar em diversos setores, liderando projetos de tecnologia e contribuindo para o avanço contínuo da sociedade digital.
+Desde 2013, venho desenvolvendo minha carreira na M2 Investimentos Imobiliários. Atualmente, estou em transição para uma nova jornada como desenvolvedor Full Stack júnior e desde então, não parei de estudar.
+Formação Complementar - React Profissional (Udemy), PHPMaker para iniciantes (Udemy), Javascript e Lógica de Programação para Iniciantes/Avançado (Cursos em Vídeo / Udemy), PHP, Laravel, jQuery, MySQL Workbench e Bootstrap (Cursos em Vídeo).
+Estou cursando Análise e Desenvolvimento de Sistemas na faculdade Estácio de Sá para complementar meu currículo.
 
-Com uma sólida base de experiência desde 2013 na M2 Investimentos Imobiliários, decidi em maio de 2022 seguir minha paixão pela tecnologia. Para atingir meu objetivo de me tornar um Desenvolvedor FullStack Júnior, concluí com sucesso o curso oferecido pela renomada Ímã Tech, totalizando 300 horas de aprendizado intensivo.
+Meu objetivo é atuar na área de desenvolvimento, tanto no frontend quanto no backend, contribuindo com análise e/ou desenvolvimento de sistemas na plataforma Javascript. Possuo especialização em desenvolvimento de software, utilizando ferramentas como VSCode, Notepad++, Git e Node.js. Também tenho experiência em gerenciamento de bancos de dados, trabalhando com Pgadmin4, MySQL e SQL Server.
 
-Ao longo dessa jornada, refinei minhas habilidades em:
-
-    - HTML
-    - CSS
-    - JavaScript
-    - React.js
-    - Node.js
-    - Pgadmin4
-
-Se meu perfil despertou seu interesse, sinta-se à vontade para enviar uma mensagem! Adoro trocar experiências e vivências, e estou aberto a novas oportunidades e colaborações. 👨‍💻
-
-Confira meu currículo [aqui](https://drive.google.com/file/d/1oZKo_DLLTuGTadNOmViRtZGIYuS4K36z/view?usp=sharing) para obter mais informações sobre minha experiência e qualificações.
+Possuo conhecimentos em diversas linguagens de programação, incluindo HTML, CSS, Javascript, PHP, jQuery, React.js, Laravel e Node.js. Além disso, estou familiarizado com servidores web e de aplicação, como o Apache HTTP Server e o XAMPP. Na área de análise de sistemas, minhas habilidades incluem o levantamento de requisitos, elaboração de documentação, modelagem de banco de dados e desenvolvimento de aplicações seguindo o modelo MVC utilizando tecnologias Javascript. Além disso, possuo experiência na realização de processos CRUD em bancos de dados.
 
 ## Ferramentas e Tecnologias
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
@@ -33,10 +22,9 @@ Confira meu currículo [aqui](https://drive.google.com/file/d/1oZKo_DLLTuGTadNOm
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>          
      
-          
-            
+                    
 
  ## Contatos:
 
