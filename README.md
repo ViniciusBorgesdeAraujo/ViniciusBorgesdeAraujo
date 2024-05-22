@@ -2,17 +2,30 @@
 
 # Bem vindo ao meu perfil GitHub 👋
 
-Desde criança sempre estive rodeado de tecnologia, tendo contato desde cedo ao ver meus tios formatando e dando manutenção em computadores. Ao observá-los formatando o Windows 95 via comando MS-DOS e inserindo disquetes, fiquei fascinado e aprendi observando e desenvolvendo interesse. Sou bastante autodidata e tive meu primeiro computador, um 486. Desde então, sempre gostei de formatar, corrigir erros e consertar, vendo tudo funcionando para mim, o que me trazia felicidade e, ao mesmo tempo, um senso de realização.
+Desde criança, sempre fui apaixonado por tecnologia, inspirado ao ver meus tios realizando manutenção em computadores. Aprendi observando-os formatar o Windows 95 via MS-DOS e usar disquetes. Meu primeiro computador, um 486, me proporcionou a oportunidade de ser autodidata, formatar, corrigir erros e consertar sistemas, o que me trazia satisfação e realização.
 
-Em 2022, tive a oportunidade de participar do programa Ímãtech, onde recebi formação intensiva em desenvolvimento full stack ao longo de 6 meses, com aulas ao vivo. A partir desse momento, fiquei ainda mais fascinado pela tecnologia, criando códigos e resolvendo problemas, o que me trouxe uma sensação de nostalgia.
+Em 2022, participei do programa Ímãtech, onde recebi formação intensiva em desenvolvimento Full Stack, com aulas ao vivo. Esse curso solidificou minha paixão por criar códigos e resolver problemas tecnológicos.
 
-Desde 2013, venho desenvolvendo minha carreira na M2 Investimentos Imobiliários. Atualmente, estou em transição para uma nova jornada como desenvolvedor Full Stack júnior e desde então, não parei de estudar.
-Formação Complementar - React Profissional (Udemy), PHPMaker para iniciantes (Udemy), Javascript e Lógica de Programação para Iniciantes/Avançado (Cursos em Vídeo / Udemy), PHP, Laravel, jQuery, MySQL Workbench e Bootstrap (Cursos em Vídeo).
-Estou cursando Análise e Desenvolvimento de Sistemas na faculdade Estácio de Sá para complementar meu currículo.
+Desde 2013, trabalho na M2 Investimentos Imobiliários, mas estou em transição para uma nova carreira como desenvolvedor Full Stack júnior, e continuo estudando constantemente.
 
-Meu objetivo é atuar na área de desenvolvimento, tanto no frontend quanto no backend, contribuindo com análise e/ou desenvolvimento de sistemas na plataforma Javascript. Possuo especialização em desenvolvimento de software, utilizando ferramentas como VSCode, Notepad++, Git e Node.js. Também tenho experiência em gerenciamento de bancos de dados, trabalhando com Pgadmin4, MySQL e SQL Server.
+Formação Complementar
+- React Profissional (Udemy)
+- PHPMaker para Iniciantes (Udemy)
+- Javascript e Lógica de Programação(Cursos em Vídeo / Udemy)
+- PHP, Laravel, jQuery, MySQL Workbench e Bootstrap (Cursos em Vídeo)
 
-Possuo conhecimentos em diversas linguagens de programação, incluindo HTML, CSS, Javascript, PHP, jQuery, React.js, Laravel e Node.js. Além disso, estou familiarizado com servidores web e de aplicação, como o Apache HTTP Server e o XAMPP. Na área de análise de sistemas, minhas habilidades incluem o levantamento de requisitos, elaboração de documentação, modelagem de banco de dados e desenvolvimento de aplicações seguindo o modelo MVC utilizando tecnologias Javascript. Além disso, possuo experiência na realização de processos CRUD em bancos de dados.
+Educação
+- Análise e Desenvolvimento de Sistemas (Estácio de Sá)
+
+Objetivo Profissional
+Busco atuar na área de desenvolvimento, contribuindo com análise e desenvolvimento de sistemas. Tenho habilidades em desenvolvimento de software utilizando ferramentas como VSCode, Notepad++, Git e Node.js, além de experiência em gerenciamento de bancos de dados com Pgadmin4, MySQL e SQL Server.
+
+Competências Técnicas
+- Linguagens e Frameworks: HTML, CSS, Javascript, PHP, jQuery, React.js, Laravel, Node.js
+- Servidores e Aplicações: Apache HTTP Server, XAMPP
+- Análise de Sistemas: Levantamento de requisitos, elaboração de documentação, modelagem de banco de dados, desenvolvimento seguindo o modelo MVC, processos CRUD
+
+Estou sempre aberto a novas oportunidades e colaborações. Se meu perfil despertou seu interesse, sinta-se à vontade para enviar uma mensagem. Adoro trocar experiências e vivências! 👨‍💻
 
 ## Ferramentas e Tecnologias
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
