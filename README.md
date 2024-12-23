@@ -17,7 +17,7 @@ Estou sempre aberto a novas oportunidades e colaborações. Se meu perfil desper
 ## Ferramentas e Tecnologias
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,postman,angular,javascript,git,postgres,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,postman,angular,javascript,java,git,postgres,vscode&theme=light)](https://skillicons.dev)
      
                     
 
