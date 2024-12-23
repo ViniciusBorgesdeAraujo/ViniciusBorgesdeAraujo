@@ -12,7 +12,7 @@ Participei ativamente do desenvolvimento de um projeto de e-commerce totalmente 
 
 Estou em constante evolução, atualmente cursando Análise e Desenvolvimento de Sistemas, o que amplia ainda mais minha base de conhecimento e habilidades técnicas. Estou entusiasmado para aplicar esse conhecimento em projetos futuros e contribuir para o crescimento da equipe.
 
-Estou sempre aberto a novas oportunidades e colaborações. Se meu perfil despertou seu interesse, sinta-se à vontade para enviar uma mensagem. Adoro trocar experiências e vivências! 👨‍💻
+Estou sempre aberto a novas oportunidades e colaborações. Se meu perfil despertou seu interesse, sinta-se à vontade para enviar uma mensagem. Adoro trocar experiências e vivências! 
 
 ## Ferramentas e Tecnologias
 
