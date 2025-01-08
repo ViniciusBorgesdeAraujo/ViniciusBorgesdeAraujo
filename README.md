@@ -4,15 +4,13 @@
 
 # Sobre mim 
 
-Durante minha participação na ÍmãTech, mergulhei no desenvolvimento Full Stack, adquirindo habilidades essenciais em diversas tecnologias. Dominei ferramentas como VsCode, Git e GitHub, construindo uma base sólida para o desenvolvimento colaborativo de projetos.
+Recentemente, fui selecionado para participar do programa 1000Devs, promovido pela Mesttra e patrocinado pela Johnson & Johnson MedTech, com o apoio do Hospital Israelita Albert Einstein. Essa iniciativa busca formar programadores júniores em Java e capacitar profissionais para contribuir com soluções tecnológicas que impactem comunidades e promovam a transformação digital na área da saúde.
 
-Aprofundei-me em linguagens fundamentais como HTML, CSS e JavaScript, desenvolvendo projetos práticos como o clone do Tinder e uma tabela de futebol individual. Além disso, explorei o universo dos bancos de dados, trabalhando com o PgAdmin4 e aprendendo a criar e manipular dados de forma eficiente.
+Estou cursando Análise e Desenvolvimento de Sistemas e me dedicando à transição de carreira para a área de tecnologia. Busco constantemente aprender novas ferramentas e aplicar esses conhecimentos em projetos reais, com foco em entregar soluções inovadoras e eficientes.
 
-Participei ativamente do desenvolvimento de um projeto de e-commerce totalmente funcional em React, integrando frontend, backend e banco de dados. Esse desafio me preparou para enfrentar os desafios do mercado de trabalho e contribuir com soluções inovadoras.
+Tive a oportunidade de atuar na ÍmãTech, onde desenvolvi projetos utilizando tecnologias como HTML, CSS, JavaScript e React.js. Durante esse período, conclui o curso de Desenvolvedor Fullstack, ampliando minhas habilidades em frontend e backend. Também desenvolvi experiência no uso de ferramentas como VSCode, Git e GitHub, consolidando minha capacidade de trabalhar em equipes ágeis e enfrentar desafios complexos.
 
-Estou em constante evolução, atualmente cursando Análise e Desenvolvimento de Sistemas, o que amplia ainda mais minha base de conhecimento e habilidades técnicas. Estou entusiasmado para aplicar esse conhecimento em projetos futuros e contribuir para o crescimento da equipe.
-
-Estou sempre aberto a novas oportunidades e colaborações. Se meu perfil despertou seu interesse, sinta-se à vontade para enviar uma mensagem. Adoro trocar experiências e vivências! 👨‍💻
+Estou empolgado com as possibilidades que a transição de carreira traz e pronto para colaborar em projetos que unam inovação, tecnologia e impacto social.
 
 ## Ferramentas e Tecnologias
 
