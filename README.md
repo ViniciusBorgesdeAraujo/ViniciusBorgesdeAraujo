@@ -4,13 +4,7 @@
 
 # Sobre mim 
 
-Recentemente, fui selecionado para participar do programa 1000Devs, promovido pela Mesttra e patrocinado pela Johnson & Johnson MedTech, com o apoio do Hospital Israelita Albert Einstein. Essa iniciativa busca formar programadores júniores em Java e capacitar profissionais para contribuir com soluções tecnológicas que impactem comunidades e promovam a transformação digital na área da saúde.
-
-Estou cursando Análise e Desenvolvimento de Sistemas e me dedicando à transição de carreira para a área de tecnologia. Busco constantemente aprender novas ferramentas e aplicar esses conhecimentos em projetos reais, com foco em entregar soluções inovadoras e eficientes.
-
-Tive a oportunidade de atuar na ÍmãTech, onde desenvolvi projetos utilizando tecnologias como HTML, CSS, JavaScript e React.js. Durante esse período, conclui o curso de Desenvolvedor Fullstack, ampliando minhas habilidades em frontend e backend. Também desenvolvi experiência no uso de ferramentas como VSCode, Git e GitHub, consolidando minha capacidade de trabalhar em equipes ágeis e enfrentar desafios complexos.
-
-Estou empolgado com as possibilidades que a transição de carreira traz e pronto para colaborar em projetos que unam inovação, tecnologia e impacto social.
+Profissional em transição de carreira, migrei para tecnologia ao me envolver com programação e desenvolvimento de software. Possuo experiência prática em projetos FrontEnd, BackEnd e bancos de dados, aplicando tecnologias como Java, ReactJS, Angular, Spring Boot, Node.js e MySQL. Participei do programa 1000Devs (Mesttra), capacitação focada em Java, APIs REST e bancos relacionais. Tenho interesse em atuar como desenvolvedor FullStack, contribuindo com soluções inovadoras para o setor.
 
 ## Ferramentas e Tecnologias
 
