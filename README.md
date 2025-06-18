@@ -1,33 +1,52 @@
-# Olá, me chamo Vinicius Borges! 
+# Olá, me chamo Vinicius Borges! 👋
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A6F750&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A6F750&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!+%F0%9F%91%8B;Desenvolvedor+Back-End+em+transi%C3%A7%C3%A3o+de+carreira!;Java+%7C+Spring+Boot+%7C+Node.js+%7C+AWS)](https://git.io/typing-svg)
 
-# Sobre mim 
+---
 
-Profissional em transição de carreira, migrei para tecnologia ao me envolver com programação e desenvolvimento de software. Possuo experiência prática em projetos FrontEnd, BackEnd e bancos de dados, aplicando tecnologias como Java, ReactJS, Angular, Spring Boot, Node.js e MySQL. Participei do programa 1000Devs (Mesttra), capacitação focada em Java, APIs REST e bancos relacionais. Tenho interesse em atuar como desenvolvedor FullStack, contribuindo com soluções inovadoras para o setor.
+## 🚀 Sobre mim
 
-## Ferramentas e Tecnologias
+Sou um profissional em transição de carreira para a área de **Desenvolvimento de Software**, atualmente focado em **Java, Spring Boot, Node.js, APIs REST** e bancos de dados relacionais como **MySQL e PostgreSQL**.
 
+Tenho formação em **Análise e Desenvolvimento de Sistemas** e venho aprofundando meus conhecimentos por meio de cursos e bootcamps práticos como:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,postman,angular,javascript,java,git,postgres,vscode&theme=light)](https://skillicons.dev)
-     
-                    
+- **1000Devs – Mesttra** (ênfase em Java e API REST)
+- **Formação Re/start – Escola da Nuvem** (Cloud Computing e IA com AWS)
+- **Formações Full Stack – ÍmãTech e Ada**
 
- ## Contatos:
- 
+Gosto de desenvolver aplicações completas, tanto no **Front-End com ReactJS/Angular**, quanto no **Back-End com Java e Node.js**. Estou em busca de oportunidades para aplicar minhas habilidades técnicas, crescer profissionalmente e contribuir com projetos de impacto.
 
-<div>
-<a href="https://www.instagram.com/vinicius.borginho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:vinnepaul@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/viniciusborgesdev/(https://www.linkedin.com/in/viniciusaraujodev/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div> 
+---
 
- ## 📊 GitHub Stats:
- 
+## 🛠️ Tecnologias e Ferramentas
 
-<div>
-<a href="https://github.com/ViniciusBorgesdeAraujo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBorgesdeAraujo&layout=compact&langs_count=7&theme=dracula"/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,java,spring,nodejs,postman,mysql,postgres,docker,git,github,vscode,aws&theme=light)](https://skillicons.dev)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBorgesdeAraujo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBorgesdeAraujo&layout=compact&langs_count=7&theme=default"/>
 </div>
 
+---
 
+## 📫 Contato
+
+<div>
+  <a href="https://www.instagram.com/vinicius.borginho/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:vinnepaul@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/viniciusaraujodev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+Obrigado por visitar meu perfil! Vamos codar juntos?
